@@ -8,7 +8,7 @@
 >
 
 <p align="center">
-  <a href="https://github.com/ZasXCar"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ZasXCar"><img title="Author" src="https://img.shields.io/badge/Author-ZasXCar-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
