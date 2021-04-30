@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/xh1jJ9V/c04a33a54164.png" alt="BaseSelfBot" width="300" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVsZUsQfKphmQjsIkx9Jey8Qy9JcDEz57AAQ&usqp=CAU" alt="BaseSelfBot" width="300" />
 
 # Base-SelfBot
 
@@ -8,7 +8,7 @@
 >
 
 <p align="center">
-  <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ZasXCar"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
