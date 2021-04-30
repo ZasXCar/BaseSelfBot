@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zennn08/BaseSelfBot#requirements">Requirements</a> •
-  <a href="https://github.com/zennn08/BaseSelfBot#instalasi">Installation</a> •
-  <a href="https://github.com/zennn08/BaseSelfBot#features">Features</a> •
-  <a href="https://trakteer.id/aqulzz">Buy Me A Coffe</a> •
-  <a href="https://github.com/zennn08/BaseSelfBot#thanks-to">Thanks to</a>
+  <a href="https://github.com/ZasXCar/BaseSelfBot#requirements">Requirements</a> •
+  <a href="https://github.com/ZasXCar/BaseSelfBot#instalasi">Installation</a> •
+  <a href="https://github.com/ZasXCar/BaseSelfBot#features">Features</a> •
+  <a href="https://saweria.co/QwesHK">Buy Me A Coffe</a> •
+  <a href="https://github.com/ZasXCar/BaseSelfBot#thanks-to">Thanks to</a>
 </p>
 </div>
 
