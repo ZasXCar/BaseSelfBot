@@ -36,7 +36,7 @@
 
 # Instalasi
 ### Deploy :
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/ZasXCar/WhatsBot "Deploy with Heroku")<br>
 Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
 [Deploy in VPS](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-in-VPS)
 ## Clone Repo & Instalasi dependencies
